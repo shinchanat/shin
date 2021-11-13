@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 dude!, I'm Harish</h1>
+<h1 align="center">Hi! 👋 , I'm Harish</h1>
 <h3 align="center">Glad to see you here,I'm a python guy from India.</h3>
 
 <h5>I'm a student at Chennai institute technology currently perusing my bachelors degree in computer science and engineering, i used to develop python projects using the existing modules.</h5>
