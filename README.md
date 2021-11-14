@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 , I'm Harish</h1>
 <h3 align="center">Glad to see you here,I'm a python guy from India.</h3>
 
-<h5>I'm a student at Chennai institute technology currently persuing my bachelors degree in computer science and engineering, i used to develop python projects using the existing modules.</h5>
+<h5>I'm a student at Chennai institute of technology currently persuing my bachelors degree in computer science and engineering, i used to develop python projects using the existing modules.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-developments&label=Profile%20views&color=0e75b6&style=flat" alt="harish-developments" /> </p>
 
