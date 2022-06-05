@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-developments&label=Profile%20views&color=0e75b6&style=flat" alt="harish-developments" /> </p>
 
-- 🔭 I’m currently working on **PyReader**
+- 🔭 I’m currently working on **Squig**
 
-- 🌱 I’m currently learning **Kivy**
+- 🌱 I’m currently learning **Datastructers And algorithms**
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
