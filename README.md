@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Squig**
 
-- 🌱 I’m currently learning **Datastructers And algorithms**
+- 🌱 I’m currently learning **Datastructures And algorithms**
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
